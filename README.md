@@ -26,9 +26,17 @@ git clone https://github.com/Lucsborges/GameOfLifeAssembly.git
  ![Display Config](Bitmap_Display.png "Display Config")
 
 
+### Configuração incial da matriz(exemplo):
+![Initial Memory](Initial_Memory.png "Initial Memory")
+
+### Funcionamento:
+- ![](Runing.gif "Runing")
+
+
+
 ## Relatório:
 
-### Descrição de funcionalidade e dos parâmetros de entrada e saída das funções:
+### Descrição de funcionalidade:
 
 - MAIN: Primeira função executada, seta nos registradores alguns valores de endereços e constantes a serem utilizados.
 - LOOPPRINCIPAL: Chama as funções PLOTM e CALCULA, em loop, 50 vezes.
