@@ -16,20 +16,20 @@ git clone https://github.com/Lucsborges/GameOfLifeAssembly.git
 ### Configurações:
 
 #### Memory Configuration:
-- Settings->Memory Configuration->Compact, Text at Address 0
+- Settings->Memory Configuration->Compact, Text at Address 0  
  ![Memory Config](Memory_Configuration.png "Memory Config")
 
 
 #### BitMap Display:
 
-- Endereço inicial: *0x00003000* (heap), 8x8 pixels por unidade, 128x128 pixels no total.
+- Endereço inicial: *0x00003000* (heap), 8x8 pixels por unidade, 128x128 pixels no total.  
  ![Display Config](Bitmap_Display.png "Display Config")
 
 
-### Configuração incial da matriz(exemplo):
+### Configuração incial da matriz(exemplo):  
 ![Initial Memory](Initial_Memory.png "Initial Memory")
 
-### Funcionamento:
+### Funcionamento:  
 - ![](Runing.gif "Runing")
 
 
