@@ -30,7 +30,7 @@ git clone https://github.com/Lucsborges/GameOfLifeAssembly.git
 ![Initial Memory](Initial_Memory.png "Initial Memory")
 
 ### Funcionamento:  
-- ![](Runing.gif "Runing")
+ ![](Runing.gif "Runing")
 
 
 
